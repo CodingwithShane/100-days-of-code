@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: February 1, 2018 (Example 1)
+### Day 1: February 1, 2018
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: I have now started the 100 days of coding and while I can't really make many projects at the moment as I'm still learning the basics (Javascript). I have decided to do what
