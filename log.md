@@ -10,17 +10,16 @@ the creator told me to do and start Free Code Camp from the start. (I already ha
 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/codingwithshane)
 
-<!-- ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: February 2, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Did more in FreeCodeCamp learning CSS and started JQuery.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I thought I done and know all about CSS and it suprised me with what I learnt. Even going through JQuery a second time has given me ideas on what I can use it for.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work**: [FreeCodeCamp Profile](https://www.freecodecamp.org/codingwithshane)
 
 
-### Day 1: June 27, Monday
+<!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
