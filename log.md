@@ -18,6 +18,15 @@ the creator told me to do and start Free Code Camp from the start. (I already ha
 
 **Link to work**: [FreeCodeCamp Profile](https://www.freecodecamp.org/codingwithshane)
 
+### Day 3: February 3, 2018
+
+**Today's Progress**: Finished JQuery and started my Tribute Page (again).
+
+**Thoughts**: I worked for 12 hours today in the sun which is new for me so coding was the last thing on my mind however I managed to not watch Netflix and got it done. I tried to redo my tribute page using Bootstrap 4 whereas I did my own html and css with my first one. I think the first one still looks better than my second.
+
+**Link to work**: [Tribute Page 2.0](https://codepen.io/CodingwithShane/pen/mXVvgo)
+**Link to work**: [Tribute Page 1.0](https://codepen.io/CodingwithShane/pen/BwyxjP)
+
 
 <!-- ### Day 1: June 27, Monday
 
