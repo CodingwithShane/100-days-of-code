@@ -27,6 +27,13 @@ the creator told me to do and start Free Code Camp from the start. (I already ha
 **Link to work**: [Tribute Page 2.0](https://codepen.io/CodingwithShane/pen/mXVvgo)
 **Link to work**: [Tribute Page 1.0](https://codepen.io/CodingwithShane/pen/BwyxjP)
 
+### Day 4: February 4, 2018
+
+**Today's Progress**: Started on my Portfolio.
+
+**Thoughts**: Again after a long 12 hour shift at work, I wasn't really motivated to code but I knew I had to unless I don't mind failing so early in this challenge. When I did start I started work on my portfolio. It's not much at the moment and I spent an hour on it but I may if I have the time and energy to continue on it longer. I'm pretty excited how it looks now and what it will look like after a few more hours on it.
+
+**Link to work**: [Portfolio Code on Github](https://github.com/CodingwithShane/portfolio-page)
 
 <!-- ### Day 1: June 27, Monday
 
