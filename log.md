@@ -43,6 +43,14 @@ the creator told me to do and start Free Code Camp from the start. (I already ha
 
 **Link to work**: [Portfolio Code on Github](https://github.com/CodingwithShane/portfolio-page)
 
+### Day 6: February 6, 2018
+
+**Today's Progress**: Almost finished version 1 of my portfolio.
+
+**Thoughts**: I was getting frustrated when I couldn't get the actual portfolio to work where you show web site examples but I managed to get it. Even fixed the nav so it sticks to the same spot. Should be one or two more days on it then it will just be improving it from there on.
+
+**Link to work**: [Portfolio Code on Github](https://github.com/CodingwithShane/portfolio-page)
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
