@@ -51,6 +51,14 @@ the creator told me to do and start Free Code Camp from the start. (I already ha
 
 **Link to work**: [Portfolio Code on Github](https://github.com/CodingwithShane/portfolio-page)
 
+### Day 7: February 7, 2018
+
+**Today's Progress**: Finished basic portfolio.
+
+**Thoughts**: I done the footer and a few other things and ready to submit. I will continue working on it by changing images to be more suited and content but that will be done outside of the 100 days of code challenge time.
+
+**Link to work**: [Portfolio Code on Github](https://github.com/CodingwithShane/portfolio-page)
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
