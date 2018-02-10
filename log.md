@@ -57,14 +57,31 @@ the creator told me to do and start Free Code Camp from the start. (I already ha
 
 **Thoughts**: I done the footer and a few other things and ready to submit. I will continue working on it by changing images to be more suited and content but that will be done outside of the 100 days of code challenge time.
 
-**Link to work**: [Portfolio Code on Github](https://github.com/CodingwithShane/portfolio-page)
+**Link to work**: [Codepen](https://codepen.io/CodingwithShane/full/KQNBRK/)
 
-<!-- ### Day 1: June 27, Monday
+### Day 8: February 8, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I have gone through some of FreeCodeCamp exercises and started on the Javascript section.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** While doing some Javascript lessons I thought of jumping to algorithms which I spent to much time on so went back to Javascript.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+1. [FreeCodeCamp](https://www.freecodecamp.org/codingwithshane)
+
+### Day 9: February 9, 2018
+
+**Today's Progress**: Still going through Javascript.
+
+**Thoughts** Javascript is getting hard. Had a few problems especially with arrays.
+
+**Link(s) to work**
+1. [FreeCodeCamp](https://www.freecodecamp.org/codingwithshane)
+
+### Day 10: February 10, 2018
+
+**Today's Progress**: Javascript in FreeCodeCamp.
+
+**Thoughts** Almost hit 200 points in FreeCodeCamp. Javascript is slow going. Couple of obstacles where I'm not sure what they want however it's minor mistakes on my side so I'm happy with that. I have the basic concepts just not exact code needed.
+
+**Link(s) to work**
+1. [FreeCodeCamp](https://www.freecodecamp.org/codingwithshane)
